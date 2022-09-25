@@ -37,4 +37,4 @@ We are a non-profit open source team, and whether you can program or not, you ar
 [https://xykong.feishu.cn/share/base/shrcnwMMP9rBl5aK6qJqaXc3Jph](https://xykong.feishu.cn/share/base/shrcnwMMP9rBl5aK6qJqaXc3Jph)
 
 
-> Official social media platforms: [Yuque](https://www.yuque.com/waterflames)｜[Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/ waterflames-team/)
+> Official social media platforms: [Yuque](https://www.yuque.com/waterflames)｜[Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/waterflames-team/)
