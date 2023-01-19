@@ -31,10 +31,5 @@ If you encounter a problem, or have a good suggestion, feel free to contact us a
 ## Support
 If you think our open source software is helpful to you, you can sponsor it to WaterFlames, poke here -> [http://afdian.net/@epeiuss](http://afdian.net/@epeiuss)
 
-## Join us
 
-We are a non-profit open source team, and whether you can program or not, you are welcome to join us and build amazing products with us at.
-[https://xykong.feishu.cn/share/base/shrcnwMMP9rBl5aK6qJqaXc3Jph](https://xykong.feishu.cn/share/base/shrcnwMMP9rBl5aK6qJqaXc3Jph)
-
-
-> Official social media platforms: [Yuque](https://www.yuque.com/waterflames)｜[Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/waterflames-team/)
+> Official social media platforms: [Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/waterflames-team/)
