@@ -32,4 +32,4 @@ If you encounter a problem, or have a good suggestion, feel free to contact us a
 If you think our open source software is helpful to you, you can sponsor it to WaterFlames, poke here -> [http://afdian.net/@epeiuss](http://afdian.net/@epeiuss)
 
 
-> Official social media platforms: [Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/waterflames-team/)
+> Official social media platforms: [Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/waterflames-team/)｜[Gitter](https://gitter.im/waterflames-team/)
