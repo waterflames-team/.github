@@ -29,7 +29,7 @@ If you encounter a problem, or have a good suggestion, feel free to contact us a
 - If you are a user, you can join our user group (QQ): 825288633.
 
 ## Support
-If you think our open source software is helpful to you, you can sponsor it to WaterFlames, poke here -> [https://afdian.net/a/waterflames](https://afdian.net/a/waterflames) | [https://opencollective.com/waterflames](https://opencollective.com/waterflames)
+If you think our open source software is helpful to you, you can sponsor it to WaterFlames, poke here -> [https://afdian.net/a/waterflames](https://afdian.net/a/waterflames)
 
 
 > Official social media platforms: [Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/waterflames-team/)
