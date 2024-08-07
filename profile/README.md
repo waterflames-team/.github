@@ -8,7 +8,7 @@ If you encounter a problem, or have a good suggestion, feel free to contact us a
 - You can also contact us via email: hi@waterflames.cn
 
 ## Support
-If you think our open source software is helpful to you, you can sponsor it to WaterFlames, poke here -> [https://afdian.net/a/waterflames](https://afdian.net/a/waterflames)
+If you think our open source software is helpful to you, you can sponsor it to WaterFlames, poke here -> [https://afdian.net/a/epeiuss](https://afdian.net/a/epeiuss)
 
 
 > Official platforms: [Gitee](https://gitee.com/waterflames-team/)｜[Github](https://github.com/waterflames-team/)
